@@ -1,4 +1,4 @@
-//@author rajesh
+//@author Rajesh
 package com.src;
 import java.util.HashSet;
 import java.util.Scanner;
