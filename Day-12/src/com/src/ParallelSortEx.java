@@ -1,4 +1,3 @@
-//@author rajesh
 package com.src;
 
 import java.util.Arrays;
