@@ -28,5 +28,9 @@ public class SortedEx {
 		
 
 	}
+	public void hello()
+	{
+		System.out.println("hello");
+	}
 
 }
